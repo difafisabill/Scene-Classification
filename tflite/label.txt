@@ -1,0 +1,4 @@
+mountain
+beach
+desert
+city
